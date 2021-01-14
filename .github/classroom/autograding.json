@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test All",
+      "setup": "mvn -q compile",
+      "run": "mvn -q -Dtest=TestClass#testMethod test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 100
+    }
+  ]
+}
