@@ -2,7 +2,9 @@
 
 # Lab ## - Template
 
-Template for Java labs
+Template for Java labs.
+
+For some reason the points badge causes the green check to show even if tests fail... sometimes.
 
 ### Testing
 
